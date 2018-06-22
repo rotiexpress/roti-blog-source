@@ -5,6 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'fr-fr'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
+url: https://blog.roti.express
 baseurl: /
 
 # Website info
@@ -14,7 +15,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/roti-magnet.png
 logo_dark: assets/images/roti.png
 favicon: assets/images/roti.png
-production_url: https://blog.roti.express/
+production_url: https://blog.roti.express
 source_url: https://github.com/rotiexpress/blog-source/
 
 # Social info
