@@ -10,8 +10,8 @@ baseurl: /
 
 # Website info
 title: Roti.express Blog
-description: Tha Agile blog of Roti.express
-cover: roti-opengraph-meeting-room-image-1200x630.jpg
+description: Roti.express Agile Blog
+cover: assets/images/bg-head-blog.jpg
 logo: assets/images/roti-magnet.png
 logo_dark: assets/images/roti.png
 favicon: assets/images/roti.png
