@@ -21,12 +21,12 @@ guillaume:
   ghithub: guidouil
   cover: False
 antoine:
-  username: antoine
+  username: Antoine
   name: Antoine Durand
   location: Paris, France
   url_full: https://wipfrance.com/
   url: wipfrance.com
-  bio: Antoine est le co-fondateur et le growth hacker de Roti.express. De réunions en conférences, il traite la réunionite à coup de Roti bien cuit.
+  bio: Co-fondateur de Roti.express, Antoine est le growth hacker de l'équipe ! De réunions en conférences, il traite la réunionite à coup de Roti bien cuit.
   picture: assets/images/antoine.jpg
   facebook: False
   twitter: False
