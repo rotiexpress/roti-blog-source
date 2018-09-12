@@ -1,23 +1,53 @@
 ---
 layout: post
 current: post
-cover:  assets/images/happytech2.png
+cover:  assets/images/metrics.png
 navigation: True
-title: Le collectif HappyTech
+title: Des métriques d'engagement pour ma Transformation
 date: 2018-09-05 16:00:00
-tags: [Partners & Friends]
+tags: [Business, Transformation]
 class: post-template
 subclass: 'post tag-getting-started'
 author: antoine
 ---
 
-Depuis sa création en 2017 nous sommes membres du collectif HappyTech, revenons sur l'histoire de ce collectif.
+La "transformation digitale" est un vaste sujet d'entreprise et que l'on soit sur un chantier de modernisation, de transformation Agile ou de transformation cloud on parle de programmes pharaoniques étalés sur plusieurs années et de budgets à six chiffres.
 
-###  HappyTech c'est quoi ? ###
+###  Métriques d'engagement ###
 
-La notion de bien-être au travail prend de plus en plus d'importance en entreprise et c'est un facteur de productivité et de performance.
+Quand on regarde un peu ce que proposent les framework de transformation (SAFe par exemple) la première métrique qui sort est l'engagement des employés.
 
-> HappyTech : "La technologie au service du bien-être au travail"
+Si les employés sont bien embarqués on a de bonne chance que ça se passe bien. L'idée est de mesurer l'engagement, l'adhésion, le support des employées à notre démarche de transformation.
+
+<img src="assets/images/Lean_portfolio.png" alt="drawing" width="80%"/>
+
+Comme indiqué sur le tableau SAFe ci-dessus on utilise deux voies : les statistiques RH (des indicateurs comme le tunover par exemple) et des sondages aux employés.
+
+Autant le "statistiques RH" est assez évident, autant le "sondages aux employés" est beaucoup plus obscure !
+>Concrêtement je fais quoi ?
+
+J'envoie un mail au employés en leur demandant "Alors toi la transformation ? ça se passe comment sur les 14 sujets sur lesquels tu es présent ?"
+
+Et pire, si les employés me répondent, comment est ce que je fais pour obtenir une synthèse ?
+
+###  Approche systémique ###
+
+Un de nos client, une compagnie d'assurance nous a contacté au mois juin car ils recherchaient un outil de feedback pour supporter leur transformation.
+
+Pour être honnête nous ne pensions pas qu'une telle demande arriverait si vite, et nous pris la décision de les accompagner dans leur démarche 
+
+###  Cas concret : assurance AGPM ###
+
+
+
+###  S'intéresser au ressenti client  ###
+
+
+###  Piloter par le feedback ###
+
+Identifier les workshops qui se passent mal
+
+
 
 Voilà l'idée de base qui a poussé le collectif HappyTech à se formé, fédérant les start-up, les chefs d'entreprises ou encore les investisseurs qui œuvrent  au quotidien "pour faire de l'entreprise un lieu où chacun peut s'épanouir et se développer".
 
