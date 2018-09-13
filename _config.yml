@@ -72,7 +72,7 @@ safe: False
 lsi: False
 username: rotiexpress
 repo: rotiexpress.github.io
-branch: source
+branch: master
 relative_source: _site
 destination: .
 production_url:  https://blog.roti.express/
