@@ -73,8 +73,8 @@ lsi: False
 username: rotiexpress
 repo: rotiexpress.github.io
 branch: master
-relative_source: _site
-destination: .
+relative_source: ../rotiexpress.github.io
+destination: ../rotiexpress.github.io
 production_url:  https://blog.roti.express/
 source_url:  https://github.com/rotiexpress/blog-source/
 
