@@ -70,11 +70,11 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: rotiexpress
+username: guidouil
 repo: rotiexpress.github.io
 branch: master
-relative_source: ../roti-blog-pages/
-destination: https://github.com/rotiexpress/rotiexpress.github.io.git
+relative_source: _site
+destination: _site
 production_url:  https://blog.roti.express/
 source_url:  https://github.com/rotiexpress/blog-source/
 
