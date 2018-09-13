@@ -74,7 +74,7 @@ username: guidouil
 repo: rotiexpress.github.io
 branch: master
 relative_source: _site
-destination: _site
+destination: .
 production_url:  https://blog.roti.express/
 source_url:  https://github.com/rotiexpress/blog-source/
 
