@@ -23,7 +23,7 @@ Voilà l'idée de base qui a poussé le collectif HappyTech à se formé, fédé
 
 Aujourd'hui HappyTech c'est 34 startups membres, plus de 300 articles de presse, et côté staff 33 bénévoles et 1 permanent.
 
-<a href="https://www.happytech.life/"><img src="assets/images/happytech3.png" alt="drawing" width="50%"/></a>
+<a href="https://france.happytech.life/"><img src="assets/images/happytech3.png" alt="drawing" width="50%"/></a>
 
 L'idée a fait son chemin et plusieurs branches de la HappyTech ont ouvert en Europe, en Amérique du Nord et même en Australie ! Les nouvelles entités sont fédérées par le Comité International de la Happy Tech
 
@@ -52,7 +52,7 @@ La HappyTech organise aussi régulièrement des évènements dans de grandes ent
 <img src="assets/images/happytech4.png" alt="drawing" width="100%"/>
 Le collectif est également présent lors des évenènements importants comme VivaTech, Le Salon Le Point ou les Trophées du Bien-être, bref on les voit un peu partout !
 
-Sur son site web Happytech propose aussi un <a href="https://www.happytech.life/catalog/">catalogue</a> ou sont présentées les solutions des adhérents.
+Sur son site web Happytech propose aussi un <a href="https://france.happytech.life/membres/">catalogue</a> ou sont présentées les solutions des adhérents.
 
 
 
