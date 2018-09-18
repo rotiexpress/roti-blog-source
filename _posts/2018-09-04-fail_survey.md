@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/fail.jpg
 navigation: True
-title: Rater son sondage en 5 points
+title: Rater son sondage en 5 étapes
 date: 2018-09-05 16:00:00
 tags: [Epic Fail]
 class: post-template
@@ -34,7 +34,7 @@ Les résultats vous appartiennent, et vous entendez bien faire dire ce que vous 
 ###  5. Instaurez la culture du bashing ###
 
 Parce qu'un sondage c'est l'occasion de se défouler et de vider son sac, ne cadrez pas vos questions et si possible rendez les obligatoires.
-> Conséquence : votre sondage devient un défouloir, il n'y a aucunes iformations intéressantes à en tirer, acunes pistes d'amélioration et seulement le mécontentement de ceux que vous forcez à répondre.
+> Conséquence : votre sondage devient un défouloir, il n'y a aucunes informations intéressantes à en tirer, acunes pistes d'amélioration et seulement le mécontentement de ceux que vous forcez à répondre.
 
 <img src="assets/images/quoi.png" alt="drawing" width="80%"/>
 
