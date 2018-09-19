@@ -20,7 +20,7 @@ Commencez donc par une phrase du type "Ce sondage ne vous prendra pas plus de 3 
 Vous souhaitez faire le plein d'informations, et vous vous dites que faire ce sondage c'est l'occasion de caser un maximum de questions afin de recueillir un maximum de données !
 > Conséquence : à la question 2 (champ texte, obligatoire, min 50 mots) vous avez déjà perdu 80% de votre audience
 
-###  3. Offrez une UX horrible ###
+###  3. Offrez une UX (User Experience) horrible ###
 
 Un sondage c'est quelque chose de jetable, personne ne s'en souvient, alors à quoi bon se donner du mal et faire quelque chose d'agréable à utiliser ?
 > Conséquence : en plus d'être interminable, l'interface est désagréable, voir buggée et les questions mal tournées.. Félicitation ! vous perdez à nouveau plus de 50% de votre audience
@@ -28,13 +28,13 @@ Un sondage c'est quelque chose de jetable, personne ne s'en souvient, alors à q
 ###  4. Ne partagez pas les résultats ###
 
 Les résultats vous appartiennent, et vous entendez bien faire dire ce que vous voulez aux chiffres afin de recevoir une prime et faire plaisir à votre manager.  
-> Conséquence : transparence zéro, les restes audience viennent de passer 25 minutes à répondre à un questionnaire dont ils ne verront jamais le résultat, pire les résultats sont trafiqués.. Là c'est sûr, vous atteignez des sommets !
+> Conséquence : transparence zéro, les survivants de votre audience viennent de passer 25 minutes à répondre à un questionnaire dont ils ne verront jamais le résultat, pire les résultats sont trafiqués.. Là c'est sûr, vous atteignez des sommets !
 
 
 ###  5. Instaurez la culture du bashing ###
 
 Parce qu'un sondage c'est l'occasion de se défouler et de vider son sac, ne cadrez pas vos questions et si possible rendez les obligatoires.
-> Conséquence : votre sondage devient un défouloir, il n'y a aucunes informations intéressantes à en tirer, acunes pistes d'amélioration et seulement le mécontentement de ceux que vous forcez à répondre.
+> Conséquence : votre sondage devient un défouloir, il n'y a aucunes informations intéressantes à en tirer, aucunes pistes d'amélioration et seulement le mécontentement de ceux que vous forcez à répondre.
 
 <img src="assets/images/quoi.png" alt="drawing" width="80%"/>
 
