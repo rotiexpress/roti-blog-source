@@ -18,7 +18,7 @@ Afin de nous faire connaitre et de communiquer avec le grand public nous avons f
 Nous voulions une image sympa qui résume notre activité en 6 points à la manière d'un <a href="https://fr.wikipedia.org/wiki/Carte_heuristique"> mind-map </a>(Carte heuristique en français)
 
 L'exercice est bien plus difficile qu'il n'y parait, car contrairement à ce qu'on pourrait penser moins on a de mots et plus c'est dur d'aller à l'essentiel.
-<img src="assets/images/Infographie_v2_fr.jpg" alt="drawing" width="90%"/>
+<img src="/assets/images/Infographie_v2_fr.jpg" alt="drawing" width="90%"/>
 Voilà le résultat ! Idéal pour envoyer sur les réseaux sociaux ou pour imprimer sur un flyer !
 
 ###  Des visuels plus spécifiques ###
@@ -26,7 +26,7 @@ Voilà le résultat ! Idéal pour envoyer sur les réseaux sociaux ou pour impri
 Nous voulions aussi des visuels avec des messages forts pour marketer notre solution sur des thématiques bien précises.
 
 Nous avons pris l'option de partir sur un visuel "rétro" avec des typos sympa pour qu'il y ait une vraie cohérence dans les messages.
-<img src="assets/images/marketing.png" alt="drawing" width="90%"/>
+<img src="/assets/images/marketing.png" alt="drawing" width="90%"/>
 Ces visuels seront utilisés pour les réseaux sociaux et pour les campagnes de publicité que nous prévoyons de lancer dès septembre 2018. Peut-être les avez-vous déjà vu au détour d'un site internet ?
 
 On adore le résultat ! à tel point qu'on en a aussi fait des cartes de visites à distribuer dans les salons.
@@ -37,7 +37,7 @@ Accessoire obligatoire de tout bon startuper, le Kakémono littéralement « obj
 
 Dans la pratique c'est plutôt l'infographie verticale que l'on met sur son stand quand on participe à un évènement ou un salon.
 
-<img src="assets/images/kakemono.png" alt="drawing" width="90%"/>
+<img src="/assets/images/kakemono.png" alt="drawing" width="90%"/>
 
 ###  Autres Goodies ###
 
@@ -47,5 +47,5 @@ Parce que les gens sont "fans" de notre logo nous l'avons décliné sous forme d
 * des pin's pour accrocher à sa veste
 * des mugs pour boire son café
 * des peluches toute douces en forme de roti !
-<img src="assets/images/goodies.png" alt="drawing" width="90%"/>
+<img src="/assets/images/goodies.png" alt="drawing" width="90%"/>
 (à suivre !)

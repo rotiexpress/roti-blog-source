@@ -23,7 +23,7 @@ Voilà l'idée de base qui a poussé le collectif HappyTech à se formé, fédé
 
 Aujourd'hui HappyTech c'est 34 startups membres, plus de 300 articles de presse, et côté staff 33 bénévoles et 1 permanent.
 
-<a href="https://france.happytech.life/"><img src="assets/images/happytech3.png" alt="drawing" width="50%"/></a>
+<a href="https://france.happytech.life/"><img src="/assets/images/happytech3.png" alt="drawing" width="50%"/></a>
 
 L'idée a fait son chemin et plusieurs branches de la HappyTech ont ouvert en Europe, en Amérique du Nord et même en Australie ! Les nouvelles entités sont fédérées par le Comité International de la Happy Tech
 
@@ -40,7 +40,7 @@ Améliorer ses réunions, ses workshops ou toute autre activité de groupe c'est
 >"Je me sens bien quand je sors d'une réunion efficace, je rentre chez moi le soir avec un sentiment de satisfaction"
 
 Au-delà d'une simple plateforme de feedback nous aimons à croire que nous aidons à faire changer les mentalités en entreprise.
-<img src="assets/images/plant.png" alt="drawing" width="100%"/>
+<img src="/assets/images/plant.png" alt="drawing" width="100%"/>
 
 ###  Et concrêtement que se passe-t-il chez HappyTech ? ###
 
@@ -49,7 +49,7 @@ Il s'agit avant tout d'un écosystème : les membres se voient régulièrement l
 Cela permet aux startups de gagner en visibilité, par exemple en participant aux webinars ou aux vidéos #MondayMotivation relayées sur les <a href="https://www.linkedin.com/company/happytech/">réseaux sociaux</a>
 
 La HappyTech organise aussi régulièrement des évènements dans de grandes entreprises auxquels les startups membres sont invitées, c'est l'occasion d'aller pitcher en comité restreint devant une entreprise qui a présélectionné les startups qu'elle souhaite rencontrer.
-<img src="assets/images/happytech4.png" alt="drawing" width="100%"/>
+<img src="/assets/images/happytech4.png" alt="drawing" width="100%"/>
 Le collectif est également présent lors des évenènements importants comme VivaTech, Le Salon Le Point ou les Trophées du Bien-être, bref on les voit un peu partout !
 
 Sur son site web Happytech propose aussi un <a href="https://france.happytech.life/membres/">catalogue</a> ou sont présentées les solutions des adhérents.
