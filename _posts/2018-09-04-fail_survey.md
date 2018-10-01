@@ -27,7 +27,7 @@ Un sondage c'est quelque chose de jetable, personne ne s'en souvient, alors à q
 
 ###  4. Ne partagez pas les résultats ###
 
-Les résultats vous appartiennent, et vous entendez bien faire dire ce que vous voulez aux chiffres afin de recevoir une prime et faire plaisir à votre manager.  
+Les résultats vous appartiennent, et vous entendez bien faire dire ce que vous voulez aux chiffres afin de recevoir une prime et faire plaisir à votre manager.
 > Conséquence : transparence zéro, les survivants de votre audience viennent de passer 25 minutes à répondre à un questionnaire dont ils ne verront jamais le résultat, pire les résultats sont trafiqués.. Là c'est sûr, vous atteignez des sommets !
 
 
@@ -36,7 +36,7 @@ Les résultats vous appartiennent, et vous entendez bien faire dire ce que vous 
 Parce qu'un sondage c'est l'occasion de se défouler et de vider son sac, ne cadrez pas vos questions et si possible rendez les obligatoires.
 > Conséquence : votre sondage devient un défouloir, il n'y a aucunes informations intéressantes à en tirer, aucunes pistes d'amélioration et seulement le mécontentement de ceux que vous forcez à répondre.
 
-<img src="assets/images/quoi.png" alt="drawing" width="80%"/>
+<img src="/assets/images/quoi.png" alt="drawing" width="80%"/>
 
 ###  Elle est simple, et diablement efficace ! ###
 <br>
@@ -50,7 +50,7 @@ Par défaut le **partage des réponses** est activée, et nous proposons de gén
 
 Nous véhiculons une culture du **feedback constructif** qui est l'essence même de notre produit.
 
-<a href="https://roti.express"><img src="assets/images/regles.png" alt="Regles ROTI" width="85%"/></a>
+<a href="https://roti.express"><img src="/assets/images/regles.png" alt="Regles ROTI" width="85%"/></a>
 
 
 (à suivre !)

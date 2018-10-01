@@ -23,26 +23,26 @@ R.O.T.I. pour « Return on Time Invested » (retour sur le temps investi) est un
 > L'objectif annoncé est de rendre ces évènements plus productifs et satisfaisants pour chaque participant.
 
 Après l’intervention, chaque participant attribue une note sur une échelle de 1 à 5 à main levé
-<img src="assets/images/hands.png" alt="drawing" width="80%"/>
+<img src="/assets/images/hands.png" alt="drawing" width="80%"/>
 
 Et, en 30 secondes, explique sa notation par un commentaire utile et bienveillant à l’attention de l’animateur.
-<img src="assets/images/feedback1.png" alt="drawing" width="80%"/>
+<img src="/assets/images/feedback1.png" alt="drawing" width="80%"/>
 
 ### Digitalisons ###
 
 Commençons par le sondage à main levé ! Afin de permettre aux participants d'évaluer le temps qu'ils viennent de passer en réunion nous allons leur proposer de donner un score avec des étoiles :
-<img src="assets/images/scoring.png" alt="drawing" width="85%"/>
+<img src="/assets/images/scoring.png" alt="drawing" width="85%"/>
 
 Et pour le commentaire de moins de 30 secondes ? C'est assez simple aussi, on part sur un champ texte qu'on limite volontairement à 1000 caractères car on ne souhaite pas que le participant nous raconte sa vie, juste des pistes d'amélioration pour mieux faire la prochaine fois!
-<img src="assets/images/commentaire1.png" alt="drawing" width="85%"/>
+<img src="/assets/images/commentaire1.png" alt="drawing" width="85%"/>
 
 ### Ajoutons de la valeur ###
 
 Le rituel ROTI est sensé durer 5 minutes, et en pratique il est compliqué pour l'animateur de relever les évaluations et de noter les commentaires, alors pour nous c'est simple comme bonjour !
-<img src="assets/images/results.png" alt="drawing" width="85%"/>
+<img src="/assets/images/results.png" alt="drawing" width="85%"/>
 
 Et puis on peut aussi regrouper tout ça sur une belle page qui fait la synthèse des commentaires laissés !
-<img src="assets/images/commentaires2.png" alt="drawing" width="85%"/>
+<img src="/assets/images/commentaires2.png" alt="drawing" width="85%"/>
 
 ### Une idée en entrainant une autre... ###
 
