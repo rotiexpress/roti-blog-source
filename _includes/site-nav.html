@@ -2,9 +2,9 @@
     <div class="site-nav-left">
         {% if page.current != 'home' %}
             {% if site.logo %}
-                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}"><img src="{{ site.baseurl}}{{ site.logo }}" alt="{{ site.title }}" /></a>
+                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl_root }}"><img src="{{ site.baseurl_root }}{{ site.logo }}" alt="{{ site.title }}" /></a>
             {% else %}
-                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl_root }}">{{ site.title }}</a>
             {% endif %}
         {% endif %}
         {% if page.navigation %}
@@ -13,6 +13,11 @@
     </div>
     <div class="site-nav-right">
         <div class="social-links">
+            {% if site.lang == "fr" %}
+                <a class="social-link" href="/en">{% t global.english %}</a>
+            {% elsif site.lang == "en" %}
+                <a class="social-link" href="/">{% t global.french %}</a>
+            {% endif %}
             {% if site.facebook %}
                 <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>
             {% endif %}

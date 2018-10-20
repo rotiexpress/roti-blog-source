@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/roti-matrix.jpeg
 navigation: True
 title: Un ROTI en version digitale
-date: 2018-09-04 16:00:00
+date: 2018-08-04 16:00:00
 tags: [Our journey]
 class: post-template
 subclass: 'post tag-getting-started'

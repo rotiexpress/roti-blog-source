@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/marketing.png
 navigation: True
 title: Infographies, Visuels & Goodies
-date: 2018-09-05 16:00:00
+date: 2018-09-14 16:00:00
 tags: [Marketing]
 class: post-template
 subclass: 'post tag-getting-started'
