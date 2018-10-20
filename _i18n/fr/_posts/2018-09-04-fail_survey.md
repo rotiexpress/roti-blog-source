@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/fail.jpg
 navigation: True
 title: Rater son sondage en 5 étapes
-date: 2018-09-05 16:00:00
+date: 2018-09-04 16:00:00
 tags: [Epic Fail]
 class: post-template
 subclass: 'post tag-getting-started'

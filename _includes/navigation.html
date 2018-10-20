@@ -1,6 +1,6 @@
 <ul class="nav" role="menu">
-    <li class="nav-home" role="menuitem"><a href="{{site.baseurl}}">Blog</a></li>
-    <li class="nav-about" role="menuitem"><a href="{{site.baseurl}}about/">A propos</a></li>
-    <!-- <li class="nav-getting-started" role="menuitem"><a href="{{site.baseurl}}tag/getting-started/">Getting Started</a></li> -->
-    <li class="nav-try-ghost" role="menuitem"><a href="https://roti.express">Retour Roti.express</a></li>
+    <li class="nav-home" role="menuitem"><a href="{{ site.baseurl_root }}{% if site.lang == 'en' %}en/{% endif %}">{% t pages.home %}</a></li>
+    <li class="nav-about" role="menuitem"><a href="{{ site.baseurl_root }}{% if site.lang == 'en' %}en/{% endif %}about/">{% t pages.about %}</a></li>
+    <!-- <li class="nav-getting-started" role="menuitem"><a href="{{site.baseurl_root }}tag/getting-started/">Getting Started</a></li> -->
+    <li class="nav-try-ghost" role="menuitem"><a href="https://roti.express">{% t global.back_to %} Roti.express</a></li>
 </ul>

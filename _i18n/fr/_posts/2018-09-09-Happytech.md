@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/happytech2.png
 navigation: True
 title: Le collectif HappyTech
-date: 2018-09-05 16:00:00
+date: 2018-09-09 16:00:00
 tags: [Partners & Friends]
 class: post-template
 subclass: 'post tag-getting-started'
