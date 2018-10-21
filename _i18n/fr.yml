@@ -4,6 +4,8 @@ global:
   publish: Publié par
   latest: Derniers articles
   back_to: Retour à
+  collection: Une collection de
+  posts: articles
 pages:
   home: Accueil
   about: A propos

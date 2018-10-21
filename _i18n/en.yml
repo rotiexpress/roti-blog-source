@@ -4,6 +4,8 @@ global:
   publish: Published by
   latest: Latest Posts
   back_to: Back to
+  collection: A collection of
+  posts: posts
 pages:
   home: Home
   about: About
