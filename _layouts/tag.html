@@ -23,7 +23,7 @@ logo: 'assets/images/ghost.png'
                 {% if tag_description %}
                     {{ tag_description }}
                 {% elsif page.tag %}
-    			    A collection of {{ paginator.total_posts }} posts
+    			    {% t global.collection %} {{ paginator.total_posts }} {% t global.posts %}
                 {% endif %}
             </h2>
         </div>
