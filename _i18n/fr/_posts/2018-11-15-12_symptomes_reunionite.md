@@ -38,14 +38,14 @@ L'autre jour j'ai participé à une réunion qui a duré 1h pour décider collec
 
 ### 7/ L'ordre du jour est inexistant ###
 Parfois la réunion n'est pas préparée du tout et on se réunit simplement pour parler d'un sujet. Les discussions sont certes très intéressantes mais on ne comprend pas bien ou est ce qu'on va.
->La notion d'objectif ou d'ordre du jour est totalement absente.. Pourquoi ne pas expliquer au gens pourquoi on les réunit en amont ?
+>La notion d'objectif ou d'ordre du jour est totalement absente.. Pourquoi ne pas expliquer aux gens pourquoi on les réunit en amont ?
 
 ### 8/ On démarre et on termine systématiquement en retard ###
 Les invités ont beaucoup de mal à être ponctuels, il y a toujours une bonne raison : "on cherche la salle, on est pris dans autre chose..." et puis il y a beaucoup de sujets à traiter on arrive rarement à tout faire !
 > Respecter le temps d'autrui est la première des politesses ! Pourquoi ne pas imposer la ponctualité et désigner un "gardien du temps" (time keeper) ?
 
 ### 9/ Pas de plan d'action post-réunion ###
-On a décider pas mal de choses ce qui représente une belle avancée, seulement c'est assez obscure sur "Qui doit faire quoi et pour quand ?"
+On a décidé pas mal de choses ce qui représente une belle avancée, seulement c'est assez obscure sur "Qui doit faire quoi et pour quand ?"
 > A la prochaine réunion c'est évident que rien n'aura avancé.. Pourquoi est ce qu'on ne se ferait pas une petite todo-list ?
 
 ### 10/ Certaines personnes n'ouvrent pas la bouche ###
