@@ -28,7 +28,7 @@ L'idée est assez simple mais diablement efficace, il s'agit de questionner les 
 >"Les deux priorités sur lesquelles vous pensez nécessaire de travailler collectivement pour faire mieux demain ?"
 
 Afin d'orienter les choix des participants nous avons, avec l'aide de Louis, selectionné le panel des 10  problématiques les plus récurrentes
-<img src="/assets/images/perfectiongame1_FR.png" target="blank" alt="drawing" width="100%"/>
+<img src="/assets/images/perfectiongame1_fr.png" target="blank" alt="drawing" width="100%"/>
 
 Le système propose ensuite les priorités les plus soutenues.
 
@@ -36,7 +36,7 @@ Il reste alors à l’animateur de faire valider ces priorités et mettre le col
 
 ### Engager les équipes dans un processus de changement ? ###
 Le système vous présente ensuite ensuite le top-2 des priorités les plus soutenues.
-<img src="/assets/images/perfectiongame2_FR.png" target="blank" alt="drawing" width="80%"/>
+<img src="/assets/images/perfectiongame2_fr.png" target="blank" alt="drawing" width="80%"/>
 
 >Pourquoi seulement 2 et pas le classement tout entier ?
 
@@ -45,7 +45,7 @@ Car il ne faut pas mener tout les combats en même temps, sinon on a beaucoup de
 Il reste alors à l’animateur de faire valider ces priorités et mettre le collectif au travail pour les traiter.
 
 ### Vous êtes administrateur de roti.express … comment faire ? ###
-<img src="/assets/images/perfectiongame3_FR.png" target="blank" alt="drawing" width="40%"/>
+<img src="/assets/images/perfectiongame3_fr.png" target="blank" alt="drawing" width="40%"/>
 1- A la création du sondage, activez le Perfection Game<br>
 2- Les participants seront invités à répondre.<br>
 3- Apparaît ensuite sur votre page d'administration le TOP-2 des priorités retenues.<br>
