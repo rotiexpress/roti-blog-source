@@ -27,7 +27,7 @@ L'idée est assez simple mais diablement efficace, il s'agit de questionner les 
 
 >"Les deux priorités sur lesquelles vous pensez nécessaire de travailler collectivement pour faire mieux la prochaine fois ?"
 
-Afin d'orienter les choix des participants nous avons, avec l'aide de Louis, selectionné les 10 voies de progret les plus récurrentes
+Afin d'orienter les choix des participants nous avons, avec l'aide de Louis, selectionné les 10 voies de progrès les plus récurrentes.
 <img src="/assets/images/perfectiongame1_fr.png" target="blank" alt="drawing" width="100%"/>
 
 Après traitement du retour des participants le système propose les deux priorités les plus soutenues.
@@ -45,7 +45,8 @@ Il reste alors à l’animateur à faire valider ces priorités et mettre le col
 
 « Un pas après l’autre » dirait le sage.
 
-Il ne faut pas mener tout les combats en même temps, sinon on a beaucoup de chances de s’égarer ! Rappelez vous, il s’agit d’ un processus d’amélioration continue, l’objectif n’est pas de déclencher un big-bang mais de monter l’escalier du progrès, une marche à la fois.
+Pour éviter de s’égarer, il convient de ne pas mener tous les combats en même temps !
+Rappelez vous. Il s’agit d'un processus d’amélioration continue. L’objectif n’est pas de déclencher un big-bang mais de monter l’escalier du progrès, une marche à la fois.
 
 Et comme nous le rappelle Louis dans son <a href="https://www.amazon.fr/Vivre-vie-Mode-Skype-simples/dp/154973895X/ref=sr_1_1?ie=UTF8&qid=1549358652&sr=8-1&keywords=louis+vareille" target="_blank">livre sur le bonheur au travail</a>, c’est l’observation du progrès qui est l’une des plus grandes sources de joie dans nos vies.
 
