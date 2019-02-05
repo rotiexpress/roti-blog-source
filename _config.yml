@@ -7,6 +7,7 @@ language: 'fr-fr'
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 url: https://blog.roti.express
 baseurl: /
+baseurl_root: /
 
 # Website info
 title: Roti.express Blog
