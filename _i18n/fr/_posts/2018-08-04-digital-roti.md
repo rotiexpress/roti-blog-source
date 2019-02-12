@@ -50,4 +50,6 @@ Nous sommes arrivés à notre objectif le rituel est digitalisé, on en fait aut
 
 On réalise aussi à ce moment là que nous collectons de la donnée, ce qui nous ouvre la voie sur l'exploration des possibilités analytiques de ces données.. Traquer les sondages des différentes équipes, mesurer la progression dans le temps, offrir une vision globale à l'échelle de l'entreprise !.. Tout est désormais possible !
 
+Essayez sur notre site web <a href="https://roti.express">Roti.express</a>
+
 (à suivre !)
