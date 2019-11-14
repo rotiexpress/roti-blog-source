@@ -16,7 +16,7 @@ AWS (Amazon Web Services) c'était pratique pour démarrer ! On connaissait déj
 
 Nous avions besoin d'un Cloud-provider qui "fait le job" et nous qui permette de nous concentrer sur notre produit et uniquement sur notre produit.
 
-Nous sommes donc resté chez AWS un bout de temps, depuis la création du MVP jusqu'à cette date clé du 11 novembre 2019 à laquelle nous avons déménagé.
+Nous sommes donc restés chez AWS un bout de temps, depuis la création du MVP (Minimum Viable Product) jusqu'à cette date clé du 11 novembre 2019 à laquelle nous avons déménagé.
 
 Nous souhaitons remercier Amazon et Mr Jeff Bezos pour leurs bons et loyaux services pendant ces 18 mois.
 
@@ -25,7 +25,7 @@ Notre décision est irrévocable, nous partons !
 ### Pourquoi partir ?
 Nos serveurs ont toujours été sécurisés et nos bases de données encryptées, nous n'avons jamais subi de piratage malgré plusieurs tentatives.
 
-Cependant, comme tout application hébergée chez un Cloud-provider Américain nous étions soumis au <a href="https://fr.wikipedia.org/wiki/CLOUD_Act" target="_blank">Cloud Act</a> et cela est vite devenu un problème.
+Cependant, comme toute application hébergée chez un Cloud-provider Américain nous étions soumis au <a href="https://fr.wikipedia.org/wiki/CLOUD_Act" target="_blank">Cloud Act</a> et cela est vite devenu un problème.
 
 >En résumé le Cloud Act c'est une loi fédérale qui permet aux forces de l'ordre Américaines de contraindre les fournisseurs de services américains à fournir les données demandées stockées sur des serveurs, qu'ils soient situés aux États-Unis ou dans des pays étrangers.
 
@@ -41,9 +41,10 @@ En octobre 2019 nous avons mené une petite étude et identifié 3 candidats pot
 Notre choix s’est porté sur <a href="https://clever-cloud.com" target="_blank">Clever-Cloud</a> qui offre un niveau de service qui surpasse notre ancien hébergeur :
 <ul>
 <li>Les possibilités de scaling sont plus finement réglables.</li>
-<li>Les base de données sont fortement cryptées.</li>
+<li>Les bases de données sont fortement cryptées.</li>
 <li>Les pipelines de déploiement sont directement reliés à l'application.</li>
-<li>Le support technique est au top ! on parle a des humains qui nous considèrent malgré notre taille modeste.</li>
+<li>Le support technique est au top ! on parle à des humains qui nous considèrent malgré notre taille modeste.</li>
+
 <li>Les prix sont grosso-modo les mêmes, on a même eu une bonne surprise</li>
 </ul>
 
@@ -62,10 +63,10 @@ Les grandes étapes ont été :
 <li>Le jour J : re-copie de la base et migration DNS</li>
 </ul>
 
-Une pensée particulière pour notre CTO <a href="https://www.linkedin.com/in/guillaume-darbonne-85783a6/" target="_blank">Guillaume</a> qui a mené cette opération d'une main experte et nous à fait un sans-faute !
+Une pensée particulière pour notre CTO <a href="https://www.linkedin.com/in/guillaume-darbonne-85783a6/" target="_blank">Guillaume</a> qui a mené cette opération d'une main experte et nous a fait un sans-faute !
 
 ### Et après ?
-Les tests techniques montrent que les performances sont meilleures, on est tout simplement ravis !
+Les tests techniques montrent que les performances sont meilleures, nous sommes tout simplement ravis !
 
 Nous sommes désormais hébergés en France, et fiers de l'être. Nous espérons que notre action sera remarquée et que d'autres applications Françaises ou Européennes suivront le même chemin que nous.
 
