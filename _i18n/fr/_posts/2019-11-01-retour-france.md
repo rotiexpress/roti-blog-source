@@ -44,6 +44,7 @@ Notre choix s’est porté sur <a href="https://clever-cloud.com" target="_blank
 <li>Les bases de données sont fortement cryptées.</li>
 <li>Les pipelines de déploiement sont directement reliés à l'application.</li>
 <li>Le support technique est au top ! on parle à des humains qui nous considèrent malgré notre taille modeste.</li>
+
 <li>Les prix sont grosso-modo les mêmes, on a même eu une bonne surprise</li>
 </ul>
 
